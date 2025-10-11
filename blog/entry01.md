@@ -7,6 +7,7 @@
 
 ## Skills
 ##### Some skills that I’ve learned from working on this blog are time management, how to google.
+### Time managemant 
 
 
 
