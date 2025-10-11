@@ -7,7 +7,7 @@ I am currently finishing step 1 defining the problem that there isn't much techn
 
 
 ## Skills
-##### Some skills that I’ve learned from working on this blog are time management, how to google.
+##### Some skills that I’ve learned from working on this blog are time management and how to google.
 #### Time management
 I have two major commitments in my life right now outside of school karate and Cross Country. This project has become a major part of my workload and will probably take up most of my after school. So I am saving Karate for Friday night's and weekend's only. Cross Country is only until the end of October. So If it does start interfering with my work.I will speak with my coach and figure out a plan.
  
