@@ -7,7 +7,8 @@
 
 ## Skills
 ##### Some skills that I’ve learned from working on this blog are time management, how to google.
-### Time managemant 
+#### Time managemant 
+I have two major commitments in my life right now outside of school karate and Cross Country 
 
 
 
