@@ -13,7 +13,7 @@ I have two major commitments in my life right now outside of school karate and C
 #### how to google 
 When I googled Cerebral Palsy many topic's on CP pooped up. People's life stories research done for a cure. But what I needed specifically was how technology will be be a cure for CP. So I googled how technology will interface with Cerebral Palsy. That made me come across the nerualink microchip devie. Also known as a Brain computer interfaces. So I know when doing further research on CP. I will type into google. Cerebral Plasy's research on Brain computer interfaces. 
 ## Summary 
-I am excited to keep researching on brain micro chips can be program to benefits one's abillites with Cerebral Palsy's! 
+I am excited to keep researching on brain micro chips can be program to benefits one's abillites with Cerebral Palsy! 
 
 
 
