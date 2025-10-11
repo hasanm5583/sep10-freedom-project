@@ -3,7 +3,7 @@
 #####  Some of my most useful website's and Article's regarding Cerebral Palsy are. https://cprn.org/ and https://www.medicalnewstoday.com/articles/brain-body-linking-microchip-helps-paralyzed-man-regain-movement-in-arm. https://cprn.org/ talks about Cerebral palsy and how to make one's life with Cerebral Palsy more equitable through caretaking as well as education.But what really made me inspired to pick Cerebral Palsy.As my freedom project topic was the article by medical news today stating how a parlyzed man  was able to move his hands and feet. by the the nerulink chip sending signals to the man's brain to send the signal to his limbs to move. Cerebral Palsy's ilateral walking gait is caused by nonactive brain signals to upper or lower body  extremities.
 
 ## Engineering design process 
-
+##### I am currently finishing step 1 defining the problem that their isn't much technology benefiting those with cerbral palsy to walk besides Walkers. I am  starting step 2 researching the problem diving deeper into the micro chip that made the parlysis man able to move. Seeing how that microchip was programmed as well to see if it was real information and not random or fake news. Lastly to speak to adults with cerebral Palsy who live successful lives and rsearchers who are studyin ways to improve the life of indivdual's with cerebral Palsy. 
 
 
 [Next](entry02.md)
