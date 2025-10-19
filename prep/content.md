@@ -29,8 +29,9 @@ Topic: **Cerebral Palsy**
   
 *  https://gomove.org/en
 *  An app that allows people with CP do exercises at home.
-*  Catered to indiviual needs
+*  Catered to indiviual needs and abillites.
 *  Always indiviual to set goals such as tieing shoelaces or button up a shirt. Or going up stairs without a railing.
+*  Therapist works with clients to help set goals and celebrate achievements.
 
 ## Part B: possible future technology
 * Idea
