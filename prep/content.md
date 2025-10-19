@@ -10,7 +10,8 @@ Topic: **Cerebral Palsy**
 * This website has a bunch of links to apps to help kids with special needs communication and sensory needs.
   
 *  https://apps.apple.com/us/app/icomm/id351726761
-*  This app helps kids learn to communicate using picture and matching them to the correct word of that same category/ could be commonly used in speech Therapy to help kids who need help with their pronunciation skills.
+*  This app helps kids learn to communicate using picture and matching them to the correct word of that same category
+*   Commonly used in speech Therapy to help kids who need help with their pronunciation skills.
   
 *  https://stasism.com Stasiam is an app the combines video games with physical Therapy.
 *  For example a person with CP might have weak  hip strength one of the games on this website is typical car racing game but to control the car you hold two steering wheels in your hand and widen each side of your hip and thighs to move the car left or right.
@@ -23,7 +24,9 @@ Topic: **Cerebral Palsy**
 
 *  These games can run on your typical smart TV, laptop or Pc.
 *  Used with Technolgy such as the Nintendo Ring Con as described with moving the racing car from side to side while move your legs.
-*  Dance pads 
+*  Dance pads are a flat game controller with nine squares to controller your chracter in different movements.
+*  The wii balence board that uses presure to track a player's center of gravity where exercises become movements on screen.
+*  https://gomove.org/en 
 
 ## Part B: possible future technology
 * Idea
