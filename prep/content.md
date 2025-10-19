@@ -2,13 +2,10 @@
 Topic: **Cerebral Palsy**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Cerebral Palsy a nerological condition 
 
 ## Part A: existing technology
-* Tech
-  * Detail
-  * [image text](image URL)
+* 
 
 ## Part B: possible future technology
 * Idea
