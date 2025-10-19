@@ -26,7 +26,11 @@ Topic: **Cerebral Palsy**
 *  Used with Technolgy such as the Nintendo Ring Con as described with moving the racing car from side to side while move your legs.
 *  Dance pads are a flat game controller with nine squares to controller your chracter in different movements.
 *  The wii balence board that uses presure to track a player's center of gravity where exercises become movements on screen.
-*  https://gomove.org/en 
+  
+*  https://gomove.org/en
+*  An app that allows people with CP do exercises at home.
+*  Catered to indiviual needs
+*  Always indiviual to set goals such as tieing shoelaces or button up a shirt. Or going up stairs without a railing.
 
 ## Part B: possible future technology
 * Idea
