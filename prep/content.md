@@ -5,6 +5,7 @@ Topic: **Cerebral Palsy**
 * Cerebral Palsy is a neurological medical  condition caused at birth when the baby is still in its mother's womb. When the baby's brain can't get enough oxygen (Cerebral Palsy) or CP for short  can Occur. Some symptoms of CP are. An unilateral walking gait (walking from side to side) Speech development issues. Problems with vision as well as hand coordination issues. Some treatments for Cerebral Palsy include Physical Therapy, Occupational Therapy. As well as botox injections and stem cell therapy. 
 
 ## Part A: existing technology
+## Part A software
 * 1st google search Cerebral Palsy Rehabilitation apps.
 * 1st website looked into: https://www.cerebralpalsy.org/blog/free-apps-to-help-your-child-with-cerebral-palsy
 * This website has a bunch of links to apps to help kids with special needs communication and sensory needs.
@@ -32,8 +33,11 @@ Topic: **Cerebral Palsy**
 *  Catered to individual needs and abilities.
 *  Always individual to set goals such as tying shoelaces or buttoning up a shirt. Or going up stairs without a railing.
 *  Therapists work with clients to help set goals and celebrate achievements.
+  ## Part A Hardware
 *  1st google screach technical hardware in meedical treatments in cerebral Palsy
-*  https://clinicaltrials.gov/study/NCT07049523 
+*  https://clinicaltrials.gov/study/NCT07049523
+*  Exoskeleton is a wearable robot for kids  with cerebral Palsy improve their lower body extremities
+*  tracks a person's typical walking pattern
 
 
 ## Part B: possible future technology
