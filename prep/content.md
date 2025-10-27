@@ -38,6 +38,10 @@ Topic: **Cerebral Palsy**
 *  https://clinicaltrials.gov/study/NCT07049523
 *  Exoskeleton is a wearable robot for kids  with cerebral Palsy improve their lower body extremities
 *  tracks a person's typical walking pattern
+*  THe skeleton then redirects the walking pattern into a more straight line by keeping hips centered and posture up right.
+*  The device also assist with daily function that a person with Cerebral Palsyy may have trouble with.
+*  These include daily tasks such as crouch to grab something on a lower shelf.
+*  The device will lock itself around the person knee and then assist the person with 
 
 
 ## Part B: possible future technology
