@@ -32,6 +32,8 @@ Topic: **Cerebral Palsy**
 *  Catered to individual needs and abilities.
 *  Always individual to set goals such as tying shoelaces or buttoning up a shirt. Or going up stairs without a railing.
 *  Therapists work with clients to help set goals and celebrate achievements.
+*  1st google screach technical hardware in meedical treatments in cerebral Palsy
+*  https://clinicaltrials.gov/study/NCT07049523 
 
 
 ## Part B: possible future technology
