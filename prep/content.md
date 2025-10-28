@@ -45,7 +45,12 @@ Topic: **Cerebral Palsy**
 *  It does this be ecxtending the knee further then what a person with cp typically can.
 *  Without putting extreme weight on the person's knee's
 *  causing a fall or worst a buckled knee.
-
+*  https://www.physio-pedia.com/Lokomat
+*  Locomat threaphy is also another fun way to improve a person with cerebral Palsy's walking gait.
+*  Locomat is kind of like a treadmail but it's for people with illateral walking patterns.
+*  A huge robot is harnessed onto the person's body with arms free and then they walk in a straight line.
+*  The treadmail can be elevated to increase the difficulty and make it feel like your climbing a hill.
+*  To make it seem not so boring a big smartboard connected to the treadmail has games that can be played while working out your walking gait.
 
 ## Part B: possible future technology
 * Idea
