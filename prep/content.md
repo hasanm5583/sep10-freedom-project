@@ -51,6 +51,12 @@ Topic: **Cerebral Palsy**
 *  A huge robot is harnessed onto the person's body with arms free and then they walk in a straight line.
 *  The treadmail can be elevated to increase the difficulty and make it feel like your climbing a hill.
 *  To make it seem not so boring a big smartboard connected to the treadmail has games that can be played while working out your walking gait.
+*  Some of these games include typical racing games where have to collect more coins then a gar bage can robot.
+*  A park where you must run up hills to get to the next level
+*  A penguin game where you can workout each imdivual leg left or right jumping on icebergs
+*  It also has something like an EKG screen to see how well the person is walking.
+*  A straighter line means the more beter the person's full feet is touching the ground in a straight line.
+  
 
 ## Part B: possible future technology
 * Idea
