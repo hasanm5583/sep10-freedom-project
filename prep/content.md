@@ -41,7 +41,10 @@ Topic: **Cerebral Palsy**
 *  THe skeleton then redirects the walking pattern into a more straight line by keeping hips centered and posture up right.
 *  The device also assist with daily function that a person with Cerebral Palsyy may have trouble with.
 *  These include daily tasks such as crouch to grab something on a lower shelf.
-*  The device will lock itself around the person knee and then assist the person with 
+*  The device will lock itself around the person knee and then assist the person with crouching down.
+*  It does this be ecxtending the knee further then what a person with cp typically can.
+*  Without putting extreme weight on the person's knee's
+*  causing a fall or worst a buckled knee.
 
 
 ## Part B: possible future technology
