@@ -34,29 +34,31 @@ Topic: **Cerebral Palsy**
 *  Always individual to set goals such as tying shoelaces or buttoning up a shirt. Or going up stairs without a railing.
 *  Therapists work with clients to help set goals and celebrate achievements.
   ## Part A Hardware
-*  1st google screach technical hardware in meedical treatments in cerebral Palsy
+*  1st google search technical hardware in medical treatments in cerebral Palsy
 *  https://clinicaltrials.gov/study/NCT07049523
 *  Exoskeleton is a wearable robot for kids  with cerebral Palsy improve their lower body extremities
 *  tracks a person's typical walking pattern
 *  THe skeleton then redirects the walking pattern into a more straight line by keeping hips centered and posture up right.
-*  The device also assist with daily function that a person with Cerebral Palsyy may have trouble with.
-*  These include daily tasks such as crouch to grab something on a lower shelf.
-*  The device will lock itself around the person knee and then assist the person with crouching down.
-*  It does this be ecxtending the knee further then what a person with cp typically can.
+*  The device also assists with daily function that a person with Cerebral Palsy may have trouble with.
+*  These include daily tasks such as crouching to grab something on a lower shelf.
+*  The device will lock itself around the person's knee and then assist the person with crouching down.
+*  It does this by extending the knee further than what a person with cp typically can.
 *  Without putting extreme weight on the person's knee's
-*  causing a fall or worst a buckled knee.
+*  causing a fall or worse a buckled knee.
 *  https://www.physio-pedia.com/Lokomat
-*  Locomat threaphy is also another fun way to improve a person with cerebral Palsy's walking gait.
-*  Locomat is kind of like a treadmail but it's for people with illateral walking patterns.
+*  Locomat therapy is also another fun way to improve a person with cerebral palsy's walking gait.
+*  Lokomat is kind of like a treadmill but it's for people with bilateral walking patterns.
 *  A huge robot is harnessed onto the person's body with arms free and then they walk in a straight line.
-*  The treadmail can be elevated to increase the difficulty and make it feel like your climbing a hill.
-*  To make it seem not so boring a big smartboard connected to the treadmail has games that can be played while working out your walking gait.
-*  Some of these games include typical racing games where have to collect more coins then a gar bage can robot.
+*  The treadmill can be elevated to increase the difficulty and make it feel like you're climbing a hill.
+*  To make it seem not so boring a big smartboard connected to the treadmill has games that can be played while working out your walking gait.
+*  Some of these games include typical racing games where you have to collect more coins then a garbage can robot.
 *  A park where you must run up hills to get to the next level
-*  A penguin game where you can workout each imdivual leg left or right jumping on icebergs
+*  A penguin game where you can workout each individual leg left or right jumping on icebergs
 *  It also has something like an EKG screen to see how well the person is walking.
-*  A straighter line means the more beter the person's full feet is touching the ground in a straight line.
+*  A straighter line means the better the person's full feet are touching the ground in a straight line.
   
+
+
 
 ## Part B: possible future technology
 * Idea
