@@ -18,6 +18,9 @@ t to give myself time for my freedom projects and karate I only go to Karate and
 ## how to google
 Since this Freedom project is about technologies that already do and will exist in the  treatment of CP. Since one of the treatments for CP is physical Therapy. I researched Softwares/hardwares that exist in Physical therapy services. To find technologies like the Exoskeleton and Locomat. 
 
+## Summary
+Overall I am really looking foward to the next step in my freedom project. Which is researching future Softwares/hardwares that could exist in the future treatment of indiviual's with Cerebral Palsy. 
+
 ## Asking for help
 Since we are supposed to find technologies that aren't really heard of or known by others. I asked my very good partner Danna Guzman. If She had heard of the website stasism.com or if she had heard of The locomat and Exoskeleton. She said she never heard of any of those technologies before.
 [Previous](entry01.md)  [Next](entry03.md)
