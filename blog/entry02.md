@@ -10,8 +10,9 @@ The information that I gathered regarding the existing software/hardware. existi
 I am currently on Step 2 of my (Engineering desin process) EDP. what is researching the problem that people don't know what technologies Softwares/hardware exist in the treatment of CP. Now that I have research what technologies already exist in the treatment of individual's with CP. Now it's on to step 3. Researching future technologies that could exist in the future of CP treatment as well as researching a cure for individual's with CP
 
 ## Skills
-Some skills that I’ve learned from working on this blog are time management, how to google, and communication.
-
+Some skills that I’ve learned from working on this blog are time management, how to google, and Asking for help.
+## Time management 
+My two commitments outside of school that I mentioned in my previous blog were Karate and Cross Country. Cross Country Season has come to an End So it's not a concern anymore. I know am on HSTAT's Swim team. Which we are supposed to have practice everyday. But to give myself time for my freedom projects and karate I only go to Karate and Swim practice twice a week on different days to have time to work on my freedom project.
 [Previous](entry01.md)  [Next](entry03.md)
 
 [Home](../README.md)
