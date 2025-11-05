@@ -13,6 +13,9 @@ I am currently on Step 2 of my (Engineering desin process) EDP. what is research
 Some skills that I’ve learned from working on this blog are time management, how to google, and Asking for help.
 ## Time management 
 My two commitments outside of school that I mentioned in my previous blog were Karate and Cross Country. Cross Country Season has come to an End So it's not a concern anymore. I know am on HSTAT's Swim team. Which we are supposed to have practice everyday. But to give myself time for my freedom projects and karate I only go to Karate and Swim practice twice a week on different days to have time to work on my freedom project.
+
+## how to google
+Since this Freedom project is about technologies that already do and will exist in the ## treatment of CP.
 [Previous](entry01.md)  [Next](entry03.md)
 
 [Home](../README.md)
