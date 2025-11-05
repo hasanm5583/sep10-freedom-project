@@ -10,6 +10,7 @@ The information that I gathered regarding the existing software/hardware. existi
 I am currently on Step 2 of my (Engineering desin process) EDP. what is researching the problem that people don't know what technologies Softwares/hardware exist in the treatment of CP. Now that I have research what technologies already exist in the treatment of individual's with CP. Now it's on to step 3. Researching future technologies that could exist in the future of CP treatment as well as researching a cure for individual's with CP
 
 ## Skills
+Some skills that I’ve learned from working on this blog are time management, how to google, and communication.
 
 [Previous](entry01.md)  [Next](entry03.md)
 
