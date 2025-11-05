@@ -3,7 +3,7 @@
 ## Context
 
 ## What I found
-The information that I gathered regarding the existing software/hardware. existing in Cerebral Palsy are.
+The information that I gathered regarding the existing software/hardware. existing in Cerebral Palsy are. stasism.com
 
 [Previous](entry01.md)  [Next](entry03.md)
 
