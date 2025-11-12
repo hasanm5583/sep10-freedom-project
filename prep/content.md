@@ -56,7 +56,12 @@ Topic: **Cerebral Palsy**
 *  A penguin game where you can workout each individual leg left or right jumping on icebergs
 *  It also has something like an EKG screen to see how well the person is walking.
 *  A straighter line means the better the person's full feet are touching the ground in a straight line.
-  
+*  https://www.mayoclinic.org/healthy-lifestyle/fitness/expert-answers/whole-body-vibration/faq-20057958
+*  The whole body vibration machine
+*  A individual taking physical Therapy could stand up on the vibrating machine to loosen up the hamstring muscles
+*  Benefical for someone with CP. Due to the fact that individual's with CP constantly have tight hamstring
+*  Getting loose before a workout or Therapy makes moving easier without the difficulty of opening one's legs.
+
 
 
 
