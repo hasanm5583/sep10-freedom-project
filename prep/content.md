@@ -74,5 +74,6 @@ Gomove.org Creation (January 28th 2024)
 
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+* Brain computer interface 
+  * It's already being developed the two types are invasive and non-invasive but only record signals and thoughts
+  * I want A BCI to be able 
