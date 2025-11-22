@@ -83,11 +83,14 @@ Gomove.org Creation (January 28th 2024)
 ## Part B: possible future technology
 * ## Brain computer interface
   Image (https://github.com/user-attachments/assets/bc76d8d9-c255-4b80-9b64-01d174cbae54)
+  * AI generated 
   * It's already being developed the two types are invasive and non-invasive but only record signals and thoughts
   * I want A BCI to be able to send brain signals to parts of the body that aren't receiving the signals they need to function properly which is the cause of Cerebral Palsy.
   * A device would go on the outside of the skull not inside so that the person's thoughts could stay to themselves.
 
 * ## A smaller version of the exoskeleton
+  Image (https://github.com/user-attachments/assets/79a2ec71-ba23-411b-9a36-fcbfaf2639e6)
+   * AI generated 
   * Has the same support the exoskeleton has except that it's smaller, kind of like a computer that can be on a big laptop or a small phone.
   * It would assist a person with CP with tasks such as tasks that the exoskeleton assists someone with.
   * An electronic lock system in the shoe would assist with bending of one's knee's without over pressuring a person's knee's.
