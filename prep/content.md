@@ -90,11 +90,11 @@ Gomove.org Creation (January 28th 2024)
 * ## A smaller version of the exoskeleton
   * Has the same support the exoskeleton has except that it's smaller, kind of like a computer that can be on a big laptop or a small phone.
   * It would assist a person with CP with tasks such as tasks that the exoskeleton assists someone with.
-  *An electronic lock system in the shoe would assist with bending of one's knee's without over pressuring a person's knee's.
-  *A spring could be implanted on the bottom of the shoe to assist with Jumping.
+  * An electronic lock system in the shoe would assist with bending of one's knee's without over pressuring a person's knee's.
+  * A spring could be implanted on the bottom of the shoe to assist with Jumping.
 * ## Balance tracker app
-  This would be an app on your iphone connected to your apple watch.
-  *The Balance tracker will make your watch beep when it senses low balance. Or senses that you are going off balance.
-  *At the end of the day the app would give you an average balance score for the day.
-  *It will be displayed on a chart sort of like an EKG chart. Showing spikes at times when balance was lost during the day.
+  * This would be an app on your iphone connected to your apple watch.
+   * The Balance tracker will make your watch beep when it senses low balance. Or senses that you are going off balance.
+  * At the end of the day the app would give you an average balance score for the day.
+  * It will be displayed on a chart sort of like an EKG chart. Showing spikes at times when balance was lost during the day.
 
