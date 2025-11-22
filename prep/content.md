@@ -82,7 +82,7 @@ Gomove.org Creation (January 28th 2024)
 
 ## Part B: possible future technology
 * ## Brain computer interface
-  Image 
+  Image (https://github.com/user-attachments/assets/bc76d8d9-c255-4b80-9b64-01d174cbae54)
   * It's already being developed the two types are invasive and non-invasive but only record signals and thoughts
   * I want A BCI to be able to send brain signals to parts of the body that aren't receiving the signals they need to function properly which is the cause of Cerebral Palsy.
   * A device would go on the outside of the skull not inside so that the person's thoughts could stay to themselves.
