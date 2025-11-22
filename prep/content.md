@@ -22,8 +22,9 @@ Topic: **Cerebral Palsy**
   
 *  https://www.mayoclinic.org/healthy-lifestyle/fitness/expert-answers/whole-body-vibration/faq-20057958
   
-   Image (https://github.com/user-attachments/assets/e3e525fe-3dec-4731-a9ec-ac98a8a3bfb4) 
+  
 *  The whole body vibration machine Creation (2000)
+*   Image (https://github.com/user-attachments/assets/e3e525fe-3dec-4731-a9ec-ac98a8a3bfb4) 
 *  An individual taking physical Therapy could stand up on the vibrating machine to loosen up the hamstring muscles
 *  Beneficial for someone with CP. Due to the fact that individuals with CP constantly have tight hamstring
 *  Getting loose before a workout or Therapy makes moving easier without the difficulty of opening one's legs.
