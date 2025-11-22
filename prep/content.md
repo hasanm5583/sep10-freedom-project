@@ -87,8 +87,8 @@ Gomove.org Creation (January 28th 2024)
   *A device would go on the outside of the skull not inside so that the person's thoughts could stay to themselves.
 
 * ## A smaller version of the exoskeleton
-  * Has the same support the exoskeleton has except that it's smaller, kind of like a computer that can be on a big laptop or a small phone.
-  *It would assist a person with CP with tasks such as tasks that the exoskeleton assists someone with.
+   Has the same support the exoskeleton has except that it's smaller, kind of like a computer that can be on a big laptop or a small phone.
+   It would assist a person with CP with tasks such as tasks that the exoskeleton assists someone with.
   *An electronic lock system in the shoe would assist with bending of one's knee's without over pressuring a person's knee's.
   *A spring could be implanted on the bottom of the shoe to assist with Jumping.
 * ## Balance tracker app
