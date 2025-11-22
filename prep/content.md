@@ -21,6 +21,7 @@ Topic: **Cerebral Palsy**
 *  A straighter line means the better the person's full feet are touching the ground in a straight line.
   
 *  https://www.mayoclinic.org/healthy-lifestyle/fitness/expert-answers/whole-body-vibration/faq-20057958
+  
    Image (https://github.com/user-attachments/assets/e3e525fe-3dec-4731-a9ec-ac98a8a3bfb4) 
 *  The whole body vibration machine Creation (2000)
 *  An individual taking physical Therapy could stand up on the vibrating machine to loosen up the hamstring muscles
@@ -36,7 +37,7 @@ Topic: **Cerebral Palsy**
 *   Commonly used in speech therapy to help kids who need help with their pronunciation skills.
 
 *  https://clinicaltrials.gov/study/NCT07049523 Exoskeleton (2017)
-*  (https://github.com/user-attachments/assets/4cda641e-2c5f-433b-a74b-abb7a66ac95a)
+*   Image (https://github.com/user-attachments/assets/4cda641e-2c5f-433b-a74b-abb7a66ac95a)
 *  Exoskeleton is a wearable robot for kids  with cerebral Palsy improve their lower body extremities
 *  tracks a person's typical walking pattern
 *  THe skeleton then redirects the walking pattern into a more straight line by keeping hips centered and posture up right.
