@@ -7,7 +7,7 @@ Topic: **Cerebral Palsy**
 ## Part A: existing technology
 ## Before 2010
 *  https://www.physio-pedia.com/Lokomat Creation (2001)
-*  Image! upload-github-image.gif
+*   ![Image](https://github.com/user-attachments/assets/6a72414f-5528-4311-8d59-3430342dc1ce)
 
 *  Locomat therapy is also another fun way to improve a person with cerebral palsy's walking gait.
 *  Lokomat is kind of like a treadmill but it's for people with bilateral walking patterns.
