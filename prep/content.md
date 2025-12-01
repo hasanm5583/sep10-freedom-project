@@ -70,7 +70,7 @@ Gomove.org Creation (January 28th 2024)
 *  https://gomove.org/en
 *  An app that allows people with CP to do exercises at home.
 *  Catered to individual needs and abilities.
-*  Always individual to set goals such as tying shoelaces or buttoning up a shirt. Or going up stairs without a railing.
+*  Allows individual to set goals such as tying shoelaces or buttoning up a shirt. Or going up stairs without a railing.
 *  Therapists work with clients to help set goals and celebrate achievements.
 
   
