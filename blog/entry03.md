@@ -6,7 +6,7 @@ I Brainstormed ideas for part B. By chipping off of software/hardware for nerolo
 I organized all of this by Date's of from how long ago the technology came out to present day. 
 
 ### Engineering Design Process
-To start seeing the technology that was already in the treatment of Cerebral Palsy. I looked at these [websites](https://apps.apple.com/us/app/icomm/id351726761) [websites](https://stasism.com ) [website](https://gomove.org/en) All these websites were softwre's that benefited  and aided sensory issues and pphysical limitations with Cerebral palsy through fun games. But there weren't any software's that regulated the main issue of CP which was Balencing. So my futuristic idea was a app on our phone connected to a apple watch that tracks balence. Other website's I looked at were [ This website]{https://www.physio-pedia.com}, [This website] {}
+To start seeing the technology that was already in the treatment of Cerebral Palsy. I looked at these [websites](https://apps.apple.com/us/app/icomm/id351726761) [websites](https://stasism.com ) [website](https://gomove.org/en) All these websites were softwre's that benefited  and aided sensory issues and pphysical limitations with Cerebral palsy through fun games. But there weren't any software's that regulated the main issue of CP which was Balencing. So my futuristic idea was a app on our phone connected to a apple watch that tracks balence. Other website's I looked at were [This website](https://www.physio-pedia.com/Lokomat) [This website] {}
 
 [Previous](entry02.md) | [Next](entry04.md)
 
