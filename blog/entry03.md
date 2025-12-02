@@ -12,6 +12,9 @@ To start seeing the technology that was already in the treatment of Cerebral Pal
 ### Consideration 
 One skill I aquired from thinking about current and thinking about future technologies in the treatment of Cerebral Palsy. By making the current existing technologies more smaller and more accessible to use. Just like how a computer used to take up a whole room. Now a phone is a type of computer that can fit into your pocket. I had to consider how we can make the exoskeleton straps small. So that they can fit onto a shoe and still have the same effect as the big exoskeleton. 
 
+### Creativity 
+Another skill I aquired from researching the future and current software/hardeware's in the treatment of CP. Was being creative and thinking outside of the box. For example if I wanted to add exoskeleton straps to shoes. I would have to be creative in thinking would the straps go around the shoe or replace the shoe laces?
+
 
 
 [Previous](entry02.md) | [Next](entry04.md)
