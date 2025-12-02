@@ -6,6 +6,7 @@ I Brainstormed ideas for part B. By chipping off of software/hardware for nerolo
 I organized all of this by Date's of from how long ago the technology came out to present day. 
 
 ### Engineering Design Process
+To start seeing the technology that was already in the treatment of Cerebral Palsy. I looked at these [websites](https://apps.apple.com/us/app/icomm/id351726761) [websites](https://stasism.com ) [website](https://gomove.org/en)
 
 [Previous](entry02.md) | [Next](entry04.md)
 
