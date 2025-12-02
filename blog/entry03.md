@@ -15,6 +15,9 @@ One skill I aquired from thinking about current and thinking about future techno
 ### Creativity 
 Another skill I aquired from researching the future and current software/hardeware's in the treatment of CP. Was being creative and thinking outside of the box. For example if I wanted to add exoskeleton straps to shoes. I would have to be creative in thinking would the straps go around the shoe or replace the shoe laces? With the Balence tracker app, I would have to be creative in thinking how would individual's with CP track their balence frequently without having to take their phone out all the time. The solution would be to make the app have a apple watch feature to be more easily tracked.
 
+### Summary 
+Overall I enjoyed using my imagination in considering what the future could be for the software's/hardware's in the treatment of Cerebral Palsy. As well as software's/hardware, that already exist in CP treatment.
+
 
 
 [Previous](entry02.md) | [Next](entry04.md)
