@@ -1,7 +1,7 @@
-# Entry 4
-##### X/X/XX
+# Entry 4 Freedon Project Tool
+##### 03/09/26
 
-Text
+My Tool is the CSS Flexbox which is a tool learned on Free code camp Which is meant to flex boxes at an appropiate size depending on which platform it is viewed on. 
 
 [Previous](entry03.md) | [Next](entry05.md)
 
