@@ -7,6 +7,12 @@ My Tool is the CSS Flexbox which is a tool learned on Free code camp Which is me
 <img width="484" height="437" alt="Image" src="https://github.com/user-attachments/assets/005e49d2-2272-4f49-99fe-36cc08618cef" />
 <img width="1335" height="550" alt="Image" src="https://github.com/user-attachments/assets/33a4fa2d-51a6-4f32-96bb-cc0f4a8d46fa" />
 
+## Skills 
+# Learn on your own
+One thing I learned from finding our own tools to buid our website was learning how to use a coding tool on our. We didn't recieve a lesson on our tool we just were given options, then researched all of our available options. Figured out on our own how they worked then took a free code camp tutorial on it. Then tried coding with it on our own on a project. Or jsbin testing platform.
+
+# Creativity 
+We also learned how to be creative with our tool 
 
 
 [](url)
