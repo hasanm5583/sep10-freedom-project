@@ -8,6 +8,8 @@
 * I used freecodecamp.org on the Css flexbox part
 *  Did the lesson Use display Flex to position two boxes.
 learned how to position two boxes besides each other not on top of each other.
+* On the next freecodecamp lesson on CSS Flexbox Add Flex Superpowers to the Tweet Embed I learned how to make text more responsive and adjustible to different screen lengths with the text of the header body text and image being responsive.
+* I also used the display: flex; element in my old movie web-page project!
 
 ### X/X/XX:
 * Text
