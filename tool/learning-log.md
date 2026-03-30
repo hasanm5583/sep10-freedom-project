@@ -21,7 +21,7 @@ learned how to position two boxes besides each other not on top of each other.
 * great for making text boxes more viewable on different device sizes
 
 
-### 3/30/36
+### 3/30/26
 * I continued using freecodecamp.org on the CSS Flexbox lessons
 * Apply the flex-direction Property to Create Rows in the Tweet Embed
 * The purpose of the Flex-direction property is to embed text into rows defaultly
