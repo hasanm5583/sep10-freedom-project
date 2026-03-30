@@ -11,6 +11,16 @@ learned how to position two boxes besides each other not on top of each other.
 * On the next freecodecamp lesson on CSS Flexbox Add Flex Superpowers to the Tweet Embed I learned how to make text more responsive and adjustible to different screen lengths with the text of the header body text and image being responsive.
 * I also used the display: flex; element in my old movie web-page project!
 
+### 3/23/26:
+* Text I continued the second freecode camp lesson on CSS Flexbox.
+* Use the flex-direction Property to Make a Row
+* In this free code camp lesson we used a property called flex-direction.
+* Flex direction switches the position of two boxes or boxes of texxt to switch places with each other
+* The default is that the boxes of text switch places in rows with each other.
+* They can also switch places in column bust must be idenifed
+* great for making text boxes more viewable on different device sizes
+
+
 ### 3/30/36
 * I continued using freecodecamp.org on the CSS Flexbox lessons
 * Apply the flex-direction Property to Create Rows in the Tweet Embed
@@ -18,7 +28,8 @@ learned how to position two boxes besides each other not on top of each other.
 * Flex direction can also arrange text into columns but it must be identified
  * Flex-direction goes inside a container
  * aligns text by their size From left to right to top to bottom if device size is made smaller or bigger.
- * Keeps all text in the same order no matter device size so text is accessible to everyone. 
+ * Keeps all text in the same order no matter device size so text is accessible to everyone.
+
 
 
 
