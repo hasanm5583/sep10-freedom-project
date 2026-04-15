@@ -42,4 +42,7 @@ learned how to position two boxes besides each other not on top of each other.
 -->
 Day 1 Lean how to Align text with it background in the left, center or right  as well as learning how to wrap elements of text into a box.
 Day 2 Learn how the flex property grows shrinks changes the size of text or rearranges it.
-Day 3 Attempt to apply those CSS grid properties to an old project move-webpage or just with dummy text. 
+Day 3 Attempt to apply those CSS grid properties to an old project move-webpage or just with dummy text.
+
+4/15/26
+* I learned how to  justify text in a certain area front center back of a webpage as well as align text with it's background at the front center, or back. As well as doing it with text already embeded in rows.
