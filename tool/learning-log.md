@@ -45,4 +45,7 @@ Day 2 Learn how the flex property grows shrinks changes the size of text or rear
 Day 3 Attempt to apply those CSS grid properties to an old project move-webpage or just with dummy text.
 
 4/15/26
-* I learned how to  justify text in a certain area front center back of a webpage as well as align text with it's background at the front center, or back. As well as doing it with text already embeded in rows.
+* I learned how to  justify text in a certain area front center back of a * webpage as well as align text with it's background at the front center, or back.  * As well as doing it with text already embeded in rows.
+
+4/16/26
+* I learned how to use Flex-Shrink and Flex grown properties to grow and shrink countainer fluids 
