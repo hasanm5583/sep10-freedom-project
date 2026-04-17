@@ -49,4 +49,11 @@ Day 3 Attempt to apply those CSS grid properties to an old project move-webpage 
 
 4/16/26
 * I learned how to use Flex-Shrink and Flex grown properties to grow and shrink countainer fluids
-* I also learn how to use flex-basis with pixels to adjust the space between the height and width when flex-growth and flex-shrink are both used at the same time. 
+* I also learn how to use flex-basis with pixels to adjust the space between the height and width when flex-growth and flex-shrink are both used at the same time.
+
+4/17/26
+* I finished all of the free code camp lessons learning how to use the flexbox shorthand property to  use shrink, growth and basis in one longhand property
+* I learned how to use the order property to order flexboxes the way I want to.
+* I learned how to use the align self property to align text individually to change each box if I don't want to change them all at once.
+* I flexed my text in my ice-cream html and css project to see if I could align the text to center with flex grow and the text did just that going to the center increasing horizontally by rows.
+
