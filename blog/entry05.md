@@ -2,6 +2,7 @@
 ##### 4/20/26
 
 Context 
+Since Blog 4 I have been practicing using my FP tool CSS Flexbox. I have learned that Flexbox a lot like CSS grid aligns test and justify's text into the start left side center middle and right side the end. as well as justifying container-fluids with text from rows to columns and vise versa. I learned all of this from the free code camp lessons learning how to use each of this properties with embedded test boxes. 
 
 [Previous](entry04.md) | [Next](entry06.md)
 
