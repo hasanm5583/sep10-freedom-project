@@ -9,6 +9,7 @@ Since Blog 4 I have been practicing using my FP tool CSS Flexbox. I have learned
 By identifying our own tool as CSS Flexbox We had to learn it without lessons from our teacher. One way I did learn flexbox on my own was freecodecamp lessons to guide myseldff through learning all the flexbox propertie. Then trying it out on my old website projects. like my mango ice cream website to then make sure I know how to use flexbox unguided. 
 
 ## Paying Attention to detail
+when using CSS and Html in general Even if you write the property the right way. For example ```<h1> title </h``` with the closing bracket missing the code won't work. with CSS properties you first state the property. like ``` align-self: center;``` if I put the colin : next to the property. But then forget the ; next to the element I want to set the property too. The property won't take action and won't work.  This can be reallly frasturating when you know what property you are appealing and how to do it but forget. A small detail so you have to pay attention to that detail.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
