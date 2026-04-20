@@ -6,7 +6,7 @@ Since Blog 4 I have been practicing using my FP tool CSS Flexbox. I have learned
 
 ## Skills
 ## How to learn 
-By identifying our own tool as CSS Flexbox We had to learn it without lessons from our teacher. One way I did learn flexbox on my own was freecodecamp's 
+By identifying our own tool as CSS Flexbox We had to learn it without lessons from our teacher. One way I did learn flexbox on my own was freecodecamp lessons to guide myseldff through learning all the flexbox propertie. Then trying it out on my old website projects. like my mango ice cream website to then make sure I know how to use flexbox unguided. 
 
 [Previous](entry04.md) | [Next](entry06.md)
 
