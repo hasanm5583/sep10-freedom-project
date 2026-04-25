@@ -11,10 +11,12 @@ body {
 
     p {
     font-size: 20px;
+     justify-content: center;
 }
 
 h2{
     font-size: 27px;
+
 }
 
 h3{
