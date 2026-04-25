@@ -8,22 +8,4 @@ body {
     background-color: #808080
 
     }
- {
-    background: linear-gradient(rgba(15, 63, 173, 0.3), rgba(0, 127, 218, 1)), url('past-1.png') center no-repeat fixed;
-    background-size: cover;
-    text-align: center;
-
-     {
-    background: linear-gradient(rgba(15, 63, 173, 0.3), rgba(0, 127, 218, 1)), url('past-2.png') center no-repeat fixed;
-    background-size: cover;
-    text-align: center;
-
-     {
-    background: linear-gradient(rgba(15, 63, 173, 0.3), rgba(0, 127, 218, 1)), url('Future-1.png') center no-repeat fixed;
-    background-size: cover;
-    text-align: center;
- {
-    background: linear-gradient(rgba(15, 63, 173, 0.3), rgba(0, 127, 218, 1)), url('Future-2.png') center no-repeat fixed;
-    background-size: cover;
-    text-align: center;
-
+ 
