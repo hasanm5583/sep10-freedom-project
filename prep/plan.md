@@ -5,22 +5,27 @@
 * [Desktop]<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/77727dc2-80a7-40c7-91c7-caa720af251e" />
 
 ## Colors
-* `#ABC123`
+* color #FFFF00
+    background-color #808080
+
 
 ## Fonts
-* [Text](URL)
+Regular standard font
 
 ## Timeline
-
+4/23/26 get html on the website page
+4/24/26 get CSS on the website page with proper color hex codes
+4/25/26 Put Navabar with responsivity
 #### MVP
+Get all of the things on the timeline on my webpage.
 
-* Task/Timeline
+
 
 ---
 
 #### Beyond MVP
 
-* Task
+* Extra padding
 
 
 
