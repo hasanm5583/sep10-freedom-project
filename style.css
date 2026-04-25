@@ -12,6 +12,7 @@ body {
     p {
     font-size: 20px;
      justify-content: center;
+     
 }
 
 h2{
@@ -23,4 +24,8 @@ h2{
 h3{
     font-size: 20px;
     justify-content: center;
+}
+#partA
+#PartB {
+    text-align: center;
 }
