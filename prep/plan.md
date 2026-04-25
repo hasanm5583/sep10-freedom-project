@@ -10,7 +10,17 @@
 
 
 ## Fonts
-Regular standard font
+p {
+    font-size: 20px;
+}
+
+h2{
+    font-size: 27px;
+}
+
+h3{
+    font-size: 20px;
+}
 
 ## Timeline
 4/23/26 get html on the website page
