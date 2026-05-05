@@ -10,6 +10,8 @@ For the past and possible future technologies for treatment in Cerebral Palsy I 
 ## Engineering Design Process
 I chose the yellow and grey background for my website because those are the colors of my karate dojo and Karate #1 for me in life. I put images of technoligies used in physical therapy, because physical therapy is what helps most individual's with CP achieve better bodies. One  challenge I faced when making my mvp was that one of my images was too big and the website would move left and right when scrolling up and down. Then I asked a friend on slack for help and they reccomeneded that I use the element X-overflow-hidden in my style.css which shoped the x-axis of my website from going off the screen.
 
+<img width="161" height="194" alt="Image" src="https://github.com/user-attachments/assets/c4d73f35-3fdc-42bd-bad8-6509a189dd9f" />
+
 ## Skills
 
 ## Pay attention to detail
