@@ -41,16 +41,16 @@ Get all of the things on the timeline on my webpage.
 
 
 
-<!-- DO NOT USE THIS YET
+DO NOT USE THIS YET
 
 #### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Yuxin | I like all the ideas you have for your topic and the images you included. | Have you considered on using more colors and formatting it to be easier to read?  |
+| Kaitlyn | I like the images and your ideas | Maybe add some colors and use different fonts to make it easier to read. I suggest adding different colors for each section and formattng it.|
+| Franco | I like the css of the project, the yellow really does catch your eye when you look at it. I like how the navbar is responsive when you make the screen smaller. I like there is a lot of information for the people to see | Have you considered maybe putting this information in cards so it looks more organized so it will also be eaiser to use with the grid system |
 |  |  |  |
 |  |  |  |
 
--->
+
