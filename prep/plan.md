@@ -35,7 +35,6 @@ Get all of the things on the timeline on my webpage.
 
 #### Beyond MVP
 
-* Extra padding
 
 
 
