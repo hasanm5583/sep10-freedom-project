@@ -12,8 +12,11 @@ I chose the yellow and grey background for my website because those are the colo
 
 ## Skills
 
-## Pay attention to detai
-When making the mvp of my website I had to make make sure I paid attention to the responsivity of my webpage making sure that the colums fitted all the text just like the rows did and that the navbar became the hamburger icon, on mobile size. 
+## Pay attention to detail
+When making the mvp of my website I had to make make sure I paid attention to the responsivity of my webpage making sure that the colums fitted all the text just like the rows did and that the navbar became the hamburger icon, on mobile size.
+
+## Creativity 
+With the Freedom to make my own website and design it however I want. I needed to use my creativity to make the the mvp of my website as unique as possible. So that it's layout, color sceme and navbar matched no other and I could be Proud of my own work.
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
