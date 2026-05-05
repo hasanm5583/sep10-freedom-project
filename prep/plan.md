@@ -36,7 +36,10 @@ Get all of the things on the timeline on my webpage.
 #### Beyond MVP
 
 
-
+* Add some paragraphs in cards
+* different text sizes for each paragraph
+ * each paragraph being a different color to make it easier to read.
+ * https://hasanm5583.github.io/sep10-freedom-project/ 
 
 
 
