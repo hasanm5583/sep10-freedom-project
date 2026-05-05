@@ -22,6 +22,8 @@ With the Freedom to make my own website and design it however I want. I needed t
 ## Sources 
 [Freecodecamp](reecodecamp.org/learn/responsive-web-design/)
 
+<img width="1360" height="647" alt="Image" src="https://github.com/user-attachments/assets/27b2075b-5ec8-4936-ba47-960989193050" />
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
