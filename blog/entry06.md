@@ -17,6 +17,9 @@ When making the mvp of my website I had to make make sure I paid attention to th
 
 ## Creativity 
 With the Freedom to make my own website and design it however I want. I needed to use my creativity to make the the mvp of my website as unique as possible. So that it's layout, color sceme and navbar matched no other and I could be Proud of my own work.
+## Sources 
+[Freecodecamp](reecodecamp.org/learn/responsive-web-design/)
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
