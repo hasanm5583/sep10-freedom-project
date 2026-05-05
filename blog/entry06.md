@@ -13,7 +13,7 @@ I chose the yellow and grey background for my website because those are the colo
 ## Skills
 
 ## Pay attention to detai
-When making the mvp of my website I had to make make sure I paid attention to the responsivity of my webpage making 
+When making the mvp of my website I had to make make sure I paid attention to the responsivity of my webpage making sure that the colums fitted all the text just like the rows did and that the navbar became the hamburger icon, on mobile size. 
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
