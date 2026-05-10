@@ -39,7 +39,7 @@ Get all of the things on the timeline on my webpage.
 * Add some paragraphs in cards
 * different text sizes for each paragraph
  * each paragraph being a different color to make it easier to read.
- * https://hasanm5583.github.io/sep10-freedom-project/ 
+ * make each paragraph a different color.
 
 
 
