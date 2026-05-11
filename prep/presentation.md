@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* 
+* I will hook people in my presentation by 
 
 ## Product
 * 
