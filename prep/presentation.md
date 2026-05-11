@@ -10,7 +10,7 @@
 * I will discuss how I imagened and predicted future technologies in Physical Therapy and how I got possible future technology images.
 
 ## Conclusion
-* I will end with the quote "I can't change the direction of the wind, but I can adjust my sails to always reach my destination”.
+* I will end with the quote "I can't change the direction of the wind, but I can adjust my sails to always reach my destination”.- Jimmy Dean. Thank you!
 
 <!-- EXAMPLE
 
