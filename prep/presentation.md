@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* I will hook people in my presentation by giving a statistic off how many people with Cp have benefited from physical Therapy
 
 ## Product
-* 
+* I will show the preview of my website talk about how current technologies in physical Therapy help individuals with CP and what their might be in the possible future.
 
 ## Process
-* 
+* I will discuss how I imagened and predicted future technologies in Physical Therapy and how I got possible future technology images.
 
 ## Conclusion
-* 
+* I will end with the quote "I can't change the direction of the wind, but I can adjust my sails to always reach my destination”.- Jimmy Dean. Thank you!
 
 <!-- EXAMPLE
 
