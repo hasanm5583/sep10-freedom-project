@@ -4,21 +4,23 @@ by **X**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of Cerebral Palsy  
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study CSS Flexbox in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](https://hasanm5583.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/10eUTwBCqixOvdRjjwfhDZxnGilei__fu3F7YpaIOkLk/edit?slide=id.p#slide=id.p)
 
 ## Implications
 ##### PROS
-* 
+* Informative of a uncommon medical codition and what it is and how it is treated and managed
+* All in a nice easy to read space 
 ##### CONS
-* 
+* Future technologies might not ever come to be for those with CP
+* People still might not find current technologies signifiant due to only People with CP needing it 
 
 
 ## Blog
