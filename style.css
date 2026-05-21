@@ -1,6 +1,4 @@
-/* ============================================
-   CSS Variables & Base Styles
-   ============================================ */
+
 :root {
     --color-primary: #2a7d7d;
     --color-primary-dark: #1e5f5f;
@@ -50,9 +48,7 @@ body {
     padding: 0 24px;
 }
 
-/* ============================================
-   Typography
-   ============================================ */
+
 h1, h2, h3, h4 {
     font-family: var(--font-heading);
     font-weight: 600;
@@ -71,9 +67,7 @@ p {
     color: var(--color-text);
 }
 
-/* ============================================
-   Navigation
-   ============================================ */
+
 .navbar {
     position: fixed;
     top: 0;
@@ -147,9 +141,7 @@ p {
     width: 100%;
 }
 
-/* ============================================
-   Hero Section
-   ============================================ */
+
 .hero {
     position: relative;
     min-height: 100vh;
@@ -208,9 +200,7 @@ p {
     flex-wrap: wrap;
 }
 
-/* ============================================
-   Buttons
-   ============================================ */
+
 .btn {
     display: inline-flex;
     align-items: center;
@@ -249,9 +239,7 @@ p {
     color: var(--color-primary);
 }
 
-/* ============================================
-   Section Styles
-   ============================================ */
+
 .section-title {
     text-align: center;
     margin-bottom: 16px;
@@ -264,9 +252,7 @@ p {
     margin-bottom: 48px;
 }
 
-/* ============================================
-   Introduction Section
-   ============================================ */
+
 .introduction {
     padding: 100px 0;
     background-color: var(--color-white);
@@ -344,9 +330,7 @@ p {
     font-size: 1rem;
 }
 
-/* ============================================
-   Quote Section
-   ============================================ */
+
 .quote-section {
     padding: 100px 0;
     background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
@@ -383,9 +367,6 @@ p {
     line-height: 1.7;
 }
 
-/* ============================================
-   Existing Technology Section
-   ============================================ */
 .existing-tech {
     padding: 100px 0;
     background-color: var(--color-secondary);
@@ -461,9 +442,7 @@ p {
     margin-bottom: 0;
 }
 
-/* ============================================
-   Future Technology Section
-   ============================================ */
+
 .future-tech {
     padding: 100px 0;
     background-color: var(--color-white);
@@ -540,9 +519,7 @@ p {
     margin-bottom: 0;
 }
 
-/* ============================================
-   Footer
-   ============================================ */
+
 .footer {
     background-color: var(--color-dark);
     color: var(--color-white);
@@ -558,9 +535,7 @@ p {
     font-size: 0.9375rem;
 }
 
-/* ============================================
-   Responsive Design
-   ============================================ */
+
 @media (max-width: 768px) {
     .nav-links {
         display: none;
