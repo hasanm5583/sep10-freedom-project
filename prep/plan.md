@@ -28,6 +28,7 @@ h3{
 4/25/26 Put Navabar with responsivity
 #### MVP
 Get all of the things on the timeline on my webpage.
+get a different color backround add quotes
 
 
 
