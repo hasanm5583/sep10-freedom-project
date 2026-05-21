@@ -1,184 +1,256 @@
-    <!DOCTYPE html>
-<html>
-    <head>
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cerebral Palsy - Technology for a Better Tomorrow</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#" class="nav-logo">CP Awareness</a>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#introduction">Introduction</a></li>
+                <li><a href="#existing-tech">Existing Technology</a></li>
+                <li><a href="#future-tech">Future Technology</a></li>
+            </ul>
+        </div>
+    </nav>
 
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
-        <link href="style.css" rel="stylesheet" type="text/css" />
-        <style>
-            /* CSS */
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h1 class="hero-title">Cerebral Palsy</h1>
+            <p class="hero-subtitle">Understanding the condition. Embracing the technology. Building a better tomorrow.</p>
+            <div class="hero-buttons">
+                <a href="#introduction" class="btn btn-primary">Learn More</a>
+                <a href="#existing-tech" class="btn btn-secondary">View Technology</a>
+            </div>
+        </div>
+    </section>
 
-        </style>
+    <!-- Introduction Section -->
+    <section id="introduction" class="introduction">
+        <div class="container">
+            <h2 class="section-title">Understanding Cerebral Palsy</h2>
+            <div class="intro-content">
+                <div class="intro-text">
+                    <p>Cerebral Palsy is a neurological medical condition caused at birth when the baby is still in its mother's womb. When the baby's brain can't get enough oxygen, Cerebral Palsy (or CP for short) can occur.</p>
 
+                    <h3>Common Symptoms</h3>
+                    <ul class="symptoms-list">
+                        <li>
+                            <span class="symptom-bullet"></span>
+                            <span>Unilateral walking gait (walking from side to side)</span>
+                        </li>
+                        <li>
+                            <span class="symptom-bullet"></span>
+                            <span>Speech development issues</span>
+                        </li>
+                        <li>
+                            <span class="symptom-bullet"></span>
+                            <span>Problems with vision</span>
+                        </li>
+                        <li>
+                            <span class="symptom-bullet"></span>
+                            <span>Hand coordination issues</span>
+                        </li>
+                    </ul>
 
+                    <h3>Available Treatments</h3>
+                    <div class="treatments-grid">
+                        <div class="treatment-card">
+                            <span class="treatment-name">Physical Therapy</span>
+                        </div>
+                        <div class="treatment-card">
+                            <span class="treatment-name">Occupational Therapy</span>
+                        </div>
+                        <div class="treatment-card">
+                            <span class="treatment-name">Botox Injections</span>
+                        </div>
+                        <div class="treatment-card">
+                            <span class="treatment-name">Stem Cell Therapy</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <!-- Inspirational Quote Section -->
+    <section class="quote-section">
+        <div class="container">
+            <blockquote class="quote">
+                <p>"The only disability in life is a bad attitude."</p>
+                <cite>- Scott Hamilton</cite>
+            </blockquote>
+            <p class="quote-dedication">Dedicated to all the warriors living with Cerebral Palsy and the families who support them. Your strength inspires us every day.</p>
+        </div>
+    </section>
 
+    <!-- Existing Technology Section -->
+    <section id="existing-tech" class="existing-tech">
+        <div class="container">
+            <h2 class="section-title">Part A: Existing Technology</h2>
+            <p class="section-subtitle">Innovations that have transformed lives over the years</p>
 
+            <!-- Before 2010 -->
+            <div class="timeline-era">
+                <h3 class="era-title">Before 2010</h3>
 
+                <div class="tech-card">
+                    <div class="tech-card-content">
+                        <span class="tech-year">2000</span>
+                        <h4>Whole Body Vibration Machine</h4>
+                        <p>An individual taking physical therapy could stand up on the vibrating machine to loosen up the hamstring muscles. This is beneficial for someone with CP due to the fact that individuals with CP constantly have tight hamstrings. Getting loose before a workout or therapy makes moving easier without the difficulty of opening one's legs.</p>
+                    </div>
+                </div>
 
+                <div class="tech-card">
+                    <div class="tech-card-image">
+                        <img src="img/past-1.png" alt="Lokomat therapy machine">
+                    </div>
+                    <div class="tech-card-content">
+                        <span class="tech-year">2001</span>
+                        <h4>Lokomat Creation</h4>
+                        <p>Lokomat therapy is a fun way to improve a person with cerebral palsy's walking gait. It's kind of like a treadmill but designed for people with bilateral walking patterns. A huge robot is harnessed onto the person's body with arms free and then they walk in a straight line.</p>
+                        <p>The treadmill can be elevated to increase difficulty, making it feel like climbing a hill. A big smartboard connected to the treadmill features games including racing games where you collect coins, park levels where you run up hills, and a penguin game where you workout each leg jumping on icebergs.</p>
+                        <p>It also has an EKG-like screen to monitor walking quality - a straighter line means better foot placement.</p>
+                    </div>
+                </div>
+            </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+            <!-- Before 2020 -->
+            <div class="timeline-era">
+                <h3 class="era-title">Before 2020</h3>
 
+                <div class="tech-card">
+                    <div class="tech-card-content">
+                        <span class="tech-year">2016</span>
+                        <h4>Sensory Needs App - Match the Card</h4>
+                        <p>This app helps kids learn to communicate using pictures and matching them to the correct word of that same category. It's commonly used in speech therapy to help kids who need help with their pronunciation skills.</p>
+                    </div>
+                </div>
 
+                <div class="tech-card">
+                    <div class="tech-card-image">
+                        <img src="img/past-2.png" alt="Exoskeleton device">
+                    </div>
+                    <div class="tech-card-content">
+                        <span class="tech-year">2010s</span>
+                        <h4>Exoskeleton</h4>
+                        <p>A wearable robot for kids with cerebral palsy to improve their lower body extremities. It tracks a person's typical walking pattern and redirects it into a more straight line by keeping hips centered and posture upright.</p>
+                        <p>The device assists with daily functions that a person with Cerebral Palsy may have trouble with, including crouching to grab something on a lower shelf. The device locks itself around the person's knee and assists with crouching by extending the knee further than what a person with CP typically can, without putting extreme weight on the knees that could cause a fall or buckled knee.</p>
+                    </div>
+                </div>
+            </div>
 
+            <!-- After 2020 -->
+            <div class="timeline-era">
+                <h3 class="era-title">After 2020</h3>
 
-  </body>
+                <div class="tech-card">
+                    <div class="tech-card-content">
+                        <span class="tech-year">2021</span>
+                        <h4>Stasiam - Video Game Physical Therapy</h4>
+                        <p>Stasiam is an app that combines video games with physical therapy. For example, a person with CP might have weak hip strength - one game is a racing game where you control the car by holding steering wheels and widening each side of your hips and thighs.</p>
+                        <p>Another example addresses the common issue of kids with CP dragging their feet when walking. A Super Mario Brothers-style game requires players to step on a wooden board to jump on Goombas. To go down tubes or jump on poles, players must squat - helping with joint strength, abdominal and obliques strength, leading to better posture and upper body control.</p>
+                        <p>The games use technology like the Nintendo Ring Con, dance pads (flat controllers with nine squares), and the Wii Balance Board that uses pressure to track center of gravity.</p>
+                    </div>
+                </div>
+
+                <div class="tech-card">
+                    <div class="tech-card-content">
+                        <span class="tech-year">2024</span>
+                        <h4>GoMove.org</h4>
+                        <p>An app that allows people with CP to do exercises at home, catered to individual needs and abilities. It allows individuals to set goals such as tying shoelaces, buttoning up a shirt, or going up stairs without a railing. Therapists work with clients to help set goals and celebrate achievements.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Future Technology Section -->
+    <section id="future-tech" class="future-tech">
+        <div class="container">
+            <h2 class="section-title">Part B: Possible Future Technology</h2>
+            <p class="section-subtitle">Conceptual innovations that could transform care</p>
+            <p class="ai-note">Note: Part B images are AI generated concepts</p>
+
+            <div class="future-grid">
+                <div class="future-card">
+                    <div class="future-card-image">
+                        <img src="img/Future-1.png" alt="Brain Computer Interface concept">
+                    </div>
+                    <div class="future-card-content">
+                        <h4>Brain Computer Interface</h4>
+                        <p>It's already being developed - the two types are invasive and non-invasive but currently only record signals and thoughts.</p>
+                        <p>I envision a BCI that can send brain signals to parts of the body that aren't receiving the signals they need to function properly, which is the cause of Cerebral Palsy. A device would go on the outside of the skull, not inside, so that the person's thoughts could stay private.</p>
+                    </div>
+                </div>
+
+                <div class="future-card">
+                    <div class="future-card-image">
+                        <img src="img/Future-2.png" alt="Compact Exoskeleton concept">
+                    </div>
+                    <div class="future-card-content">
+                        <h4>Compact Exoskeleton</h4>
+                        <p>Has the same support the exoskeleton has except that it's smaller - kind of like how a computer can be on a big laptop or a small phone. It would assist a person with CP with the same tasks the current exoskeleton does.</p>
+                        <p>An electronic lock system in the shoe would assist with bending of one's knees without over-pressuring them. A spring could be implanted on the bottom of the shoe to assist with jumping.</p>
+                    </div>
+                </div>
+
+                <div class="future-card">
+                    <div class="future-card-content full-width">
+                        <h4>The Balance Tracker</h4>
+                        <p>This would be an app on your iPhone connected to your Apple Watch. The Balance Tracker will make your watch beep when it senses low balance or that you are going off balance.</p>
+                        <p>At the end of the day, the app would give you an average balance score displayed on a chart similar to an EKG chart, showing spikes at times when balance was lost during the day.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>Copyright &copy; Hasan Mahmud 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Navbar background change on scroll
+        window.addEventListener('scroll', function() {
+            const navbar = document.querySelector('.navbar');
+            if (window.scrollY > 50) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        });
+    </script>
+</body>
 </html>
-
-        <title>Cerebral Palsy</title>
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
-  <div class="container-fluid">
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#CP"><i class="bi bi-house-door-fill"></i>Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#PartA">Existing Technology</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#partB">Possible Future Technology</a>
-        </li>
-
-      </ul>
-      </div>
-  </div>
-</nav>
-
-
-
-
-            <h1 id="CP">Introduction </h1>
- <h2>Cerebral Palsy is a neurological medical  condition caused at birth when the baby is still in its mother's womb. When the baby's brain can't get enough oxygen (Cerebral Palsy) or CP for short  can Occur. Some symptoms of CP are. An unilateral walking gait (walking from side to side) Speech development issues. Problems with vision as well as hand coordination issues. Some treatments for Cerebral Palsy include Physical Therapy, Occupational Therapy. As well as botox injections and stem cell therapy.  </h2>
-<div class="content">
-            <div class="row">
-                <div class="col-sm-8">
-
-<div class="card">
-<h2 id="PartA"> Part A: existing technology
-Before 2010</h2>
- <p>Lokomat Creation (2001) </p>
- <p>Locomat therapy is also another fun way to improve a person with cerebral palsy's walking gait.
-Lokomat is kind of like a treadmill but it's for people with bilateral walking patterns.
- A huge robot is harnessed onto the person's body with arms free and then they walk in a straight line.
-The treadmill can be elevated to increase the difficulty and make it feel like you're climbing a hill.
-To make it seem not so boring a big smartboard connected to the treadmill has games that can be played while working out your walking gait.
- Some of these games include typical racing games where you have to collect more coins then a garbage can robot.
- A park where you must run up hills to get to the next level
-A penguin game where you can workout each individual leg left or right jumping on icebergs
-It also has something like an EKG screen to see how well the person is walking.
- A straighter line means the better the person's full feet are touching the ground in a straight line.
-The whole body vibration machine Creation (2000)
-An individual taking physical Therapy could stand up on the vibrating machine to loosen up the hamstring muscles
-Beneficial for someone with CP. Due to the fact that individuals with CP constantly have tight hamstring
-Getting loose before a workout or Therapy makes moving easier without the difficulty of opening one's legs.</p>
-</div>
-<img src="img/past-2.png" alt=" The Lokomat">
-<div class="card">
-                  <h2> Before 2020 </h2>
-<p2> 1st website looked into: Sensory needs app (https://www.cerebralpalsy.org/blog/free-apps-to-help-your-child-with-cerebral-palsy)
-
-
-This website has a bunch of links to apps to help kids with special needs communication and sensory needs.
-https://apps.apple.com/us/app/icomm/id351726761 Match the card (August 17 2016)
-This app helps kids learn to communicate using picture and matching them to the correct word of that same category
-  Commonly used in speech therapy to help kids who need help with their pronunciation skills.
- Exoskeleton is a wearable robot for kids  with cerebral Palsy improve their lower body extremities
-tracks a person's typical walking pattern
- THe skeleton then redirects the walking pattern into a more straight line by keeping hips centered and posture up right.  The device also assists with daily function that a person with Cerebral Palsy may have trouble with.
-These include daily tasks such as crouching to grab something on a lower shelf.
-The device will lock itself around the person's knee and then assist the person with crouching down.
-It does this by extending the knee further than what a person with cp typically can.
- Without putting extreme weight on the person's knee's
- causing a fall or worse a buckled knee.</p2>
- </div>
-<h2>After 2020
-Stasiam Creation ( October 2021) </h2>
-<img src="img/past-1.png" alt=" The exoskeleton">
-<div class="card">
-<p3>  Stasiam is an app that combines video games with physical therapy.
- For example a person with CP might have weak  hip strength. One of the games on this website is a typical car racing game but to control the car you hold two steering wheels in your hand and widen each side of your hip and thighs to move the car left or right.
-Another example is that most kids with CP have trouble lifting their feet when walking and oftentimes drag their feet on the floor. Leading to having to buy new shoes every so often.
- Well look no further, everyone loves Super Mario Brothers right? Well in this game you better watch out for the Goombas. A player must be able to step on a wooden board in order to jump on the Goombas and not get hit by them.
- Need to go into a tube or jump on the poll when you've reached the end of the course?
- Well in order for mario to jump or go down you must squat.
- Squatting can help with Joint strength
- Abdominal and Obliques Strength leading to better posture and better upper body control.
- These games can run on your typical smart TV, laptop or PC.
- Used with Technology such as the Nintendo Ring Con as described with moving the racing car from side to side while moving your legs.
- Dance pads are a flat game controller with nine squares to control your character in different movements.
- The wii balance board that uses pressure to track a player's center of gravity where exercises become movements on screen.</p3>
- </div>
-<h2>Gomove.org Creation (January 28th 2024) </h2>
-<div class="card">
-<p4>  An app that allows people with CP to do exercises at home.
-Catered to individual needs and abilities.
- Allows individual to set goals such as tying shoelaces or buttoning up a shirt. Or going up stairs without a railing.
- Therapists work with clients to help set goals and celebrate achievements. </p4>
- </div>
- <br>
-<br>
-<h3>
-      Copyright @ Hasan Mahmud 2026
-</h3>
-
-                </div>
-                <div class=" col-sm-4">
-                  <div class="card">
-                    <h2 id="partB">Part B photos are AI generated</h2>
-<h2>Part B: possible future technology
- Brain computer interface </h2>
- </div>
- <img src="img/Future-2.png" alt=" Brain computer interface device">
- <p3>
-  <div class="card">
-  It's already being developed the two types are invasive and non-invasive but only record signals and thoughts
-  I want A BCI to be able to send brain signals to parts of the body that aren't receiving the signals they need to function properly which is the cause of Cerebral Palsy.
-A device would go on the outside of the skull not inside so that the person's thoughts could stay to themselves. </p3>
-</div>
-  <br>
-<h2>A smaller version of the exoskeleton </h2>
-<img src="img/Future-1.png" alt=" The exoskeleton boots">
-<div class="card">
-  <p3>
-  Has the same support the exoskeleton has except that it's smaller, kind of like a computer that can be on a big laptop or a small phone.
-  It would assist a person with CP with tasks such as tasks that the exoskeleton assists someone with.
-  An electronic lock system in the shoe would assist with bending of one's knee's without over pressuring a person's knee's.
-  A spring could be implanted on the bottom of the shoe to assist with Jumping.</p3>
-  </div>
-  <br>
-  <h2>  The Balance tracker </h2>
-  <div class="card">
- <p3>This would be an app on your iphone connected to your apple watch.
-   The Balance tracker will make your watch beep when it senses low balance. Or senses that you are going off balance.
-  At the end of the day the app would give you an average balance score for the day.
- It will be displayed on a chart sort of like an EKG chart. Showing spikes at times when balance was lost during the day.</p3>
-</div>
-
-
-
-
-
-                </div>
-            </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-            </p>
-            </div>
