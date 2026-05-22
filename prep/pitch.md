@@ -1,1 +1,1 @@
-
+Hey Come check at my website about Cerebral Palsy! Have you ever been injured or needed rehab Therapy? I've been there many times and used the lokomat vibration machine many times. It was so cool to think about what I wish physical therapy had to help cp. Bootstrao and CSs flexbox really helped with the responsivity of this website.
