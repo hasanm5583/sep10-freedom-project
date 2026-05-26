@@ -9,6 +9,7 @@ I started my presentation by a statistic question about the benefit of physical 
 
 ### Sources 
 [Presentation](https://docs.google.com/presentation/d/10eUTwBCqixOvdRjjwfhDZxnGilei__fu3F7YpaIOkLk/edit?slide=id.p#slide=id.p)
+[Presentation plan](https://github.com/hasanm5583/sep10-freedom-project/blob/main/prep/presentation.md)
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
